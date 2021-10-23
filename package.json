@@ -3,7 +3,7 @@
   "displayName": "PurpleDark Horizon",
   "publisher": "twanluttik",
   "description": "A vscode theme made by Twan Luttik",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": "git@github.com:TwanLuttik/purpledark-horizon-vscode-theme.git",
   "engines": {
     "vscode": "^1.61.0"
